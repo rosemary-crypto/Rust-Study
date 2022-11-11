@@ -5,3 +5,5 @@
 Practise rust with me from HelloWorld to advanced projects.
 
 ## Beginner
+
+1. 001_Hello_World -> the hello world program
